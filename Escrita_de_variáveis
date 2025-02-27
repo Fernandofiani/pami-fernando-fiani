@@ -1,0 +1,3 @@
+camelCase para variáveis, atributos e métodos;
+PascalCase para classes, enum e interfaces;
+SCREAMING_SNAKE_CASE para constantes.
