@@ -1,4 +1,4 @@
-# PAMI-Felipe_Rocha
+# pami-fernando-fiani
 Programação de Aplicativos Mobile I por João SIles e Bruno Cano
 
 Crie um projeto em Expo
